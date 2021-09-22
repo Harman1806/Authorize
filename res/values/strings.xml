@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Authorizer</string>
+        <string name="back">BACKGROUND</string>
+        <string name="login">LOG-IN</string>
+        <string name="Password">PASSWORD</string>
+        <string name="email">E-MAIL</string>
+        <string name="title_activity_s_i_g_n_i_n">SIGNIN</string>
+        <!-- Strings used for fragments for navigation -->
+        <string name="next">Next</string>
+        <string name="previous">Previous</string>
+        <string name="newuser">NEW USER</string>
+        <string name="name">NAME</string>
+        <string name="emaild">E-MAIL ID</string>
+        <string name="password">PASSWORD</string>
+        <string name="username">NAME</string>
+        <string name="signup">SIGN-UP</string>
+
+        <string name="already_have_an_account_sign_in">Already have an Account? Sign-In</string>
+        <string name="new_user_sign_up">New User ? Sign-Up</string>
+        <string name="log_out">LOG-OUT</string>
+        <string name="hello_there_welcome_back">Hello there, Welcome Back</string>
+        <string name="sign_in_to_continue">Sign In to continue</string>
+        <string name="sign_in">Sign-IN</string>
+        <string name="forgot_password">Forgot Password?</string>
+        <string name="welcome">Welcome,</string>
+        <string name="create_a_new_account">Create a new Account,</string>
+        <string name="todo">d</string>
+    <string name="welcomee">WELCOME</string>
+    <string name="b">By, Harmanpreet Singh</string>
+</resources>
